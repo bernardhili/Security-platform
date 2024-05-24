@@ -13,8 +13,8 @@ The idea of this project is to aggregate a number of security tools and custom s
 - Generate Report
 
 ### Database structure
-- 
-
+- Control: Id, title, description, evidence, frequency, CS, coverage
+- CS: frameworkId, title, Description
 
 ### Components
 - Docker
